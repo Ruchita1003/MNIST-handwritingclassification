@@ -6,7 +6,7 @@ I attempt at achieving this by using two approaches i.e. building a Naive Bayes 
 
 Deductions have been made on where a model performs better or makes mistakes. Further analysis explores why these misclassifications might have occurred. 
 
-### Inferences:
+### Some Inferences:
 
 • It can be observed that the Naïve Bayes model has the least precision in predicting the number 8 (precision: 0.66) and the number 9 (precision: 0.71). The Logistic Regression model has the least precision in predicting the number 8 (precision 0.88) and number 5 (precision 0.89).
 
